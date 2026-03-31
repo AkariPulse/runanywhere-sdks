@@ -54,7 +54,15 @@
 
 ---
 
+## 🌐 Quick Access
 
+| Platform                | Description                              | Status     | Link |
+|-------------------------|------------------------------------------|------------|------|
+| **Web App**             | efwef       | Live       | [Open Web App](https://your-web-app.com) |
+| **Telegram Mini App**   | wefwef   | Live       | [Launch Mini App](https://t.me/your_mini_app) |
+| **Documentation**       | wefI                | Updated    | [Read Docs](https://docs.yourproject.com) |
+| **X.com**               | wefwefwef           | Active     | [Follow on X](https://x.com/yourusername) |
+| **Telegram Community**  | wefwef | 1.2k members | [Join Community](https://t.me/your_community) |
 
 ---
 
