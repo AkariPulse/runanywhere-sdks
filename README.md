@@ -3,151 +3,325 @@
 
 </p>
 <h1 align="center">Akari Pulse</h1>
-
-<p align="center">
-  <strong>AI trading & on‑chain analytics for degen traders.</strong><br/>
-  Analyze tokens and wallets, run AI agents, and swap via Solana — all in one place.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-experimental-orange?style=flat-square" alt="Project Status" />
-  <img src="https://img.shields.io/badge/platform-solana-black?style=flat-square" alt="Solana" />
-  <img src="https://img.shields.io/badge/ai-agents-blueviolet?style=flat-square" alt="AI Agents" />
-</p>
-
----
-
-## See It In Action
-
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="docs/gifs/token-analytics.gif" alt="Token Analytics" width="240"/><br/><br/>
-      <strong>Token Analytics</strong><br/>
-      <sub>Liquidity, volume, holders, risk flags</sub>
-    </td>
-    <td width="40"></td>
-    <td align="center" width="50%">
-      <img src="docs/gifs/wallet-analytics.gif" alt="Wallet Analytics" width="240"/><br/><br/>
-      <strong>Wallet Analytics</strong><br/>
-      <sub>PnL, behavior, smart‑money tracking</sub>
-    </td>
-  </tr>
-  <tr><td colspan="3" height="30"></td></tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="docs/gifs/ai-agent.gif" alt="AI Agent" width="240"/><br/><br/>
-      <strong>AI Analytics Agent</strong><br/>
-      <sub>Explain any token or wallet in chat</sub>
-    </td>
-    <td width="40"></td>
-    <td align="center" width="50%">
-      <img src="docs/gifs/jupiter-swap.gif" alt="Jupiter Swap" width="240"/><br/><br/>
-      <strong>Swaps via Jupiter</strong><br/>
-      <sub>From signal to manual swap in one click</sub>
-    </td>
-  </tr>
-</table>
+  <img src="./public/akaripulse-logo.png" width="110" alt="AkariPulse logo" />
+  <h1>AkariPulse</h1>
+  <p><strong>AI-native on-chain analytics and trading terminal for Solana</strong></p>
+  <p>
+    Token intelligence • Wallet profiling • Narrative research • Real-time terminal • Credit-based execution
+  </p>
 </div>
 
+<p align="center">
+  <a href="https://app.akaripulse.com">
+    <img alt="Web App" src="https://img.shields.io/badge/Web%20App-live-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://api.akaripulse.com">
+    <img alt="API" src="https://img.shields.io/badge/API-json-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </a>
+  <a href="#terminal">
+    <img alt="Terminal" src="https://img.shields.io/badge/Terminal-real--time-1f2937?style=for-the-badge" />
+  </a>
+  <a href="#token-analytics">
+    <img alt="Analytics" src="https://img.shields.io/badge/Analytics-AI%20reports-111827?style=for-the-badge" />
+  </a>
+  <a href="#security--privacy">
+    <img alt="Non Custodial" src="https://img.shields.io/badge/Wallet-non--custodial-0f172a?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#overview">Overview</a>
+  ·
+  <a href="#product-surfaces">Product Surfaces</a>
+  ·
+  <a href="#core-features">Core Features</a>
+  ·
+  <a href="#credits--plans">Credits & Plans</a>
+  ·
+  <a href="#api--integration">API</a>
+  ·
+  <a href="#security--privacy">Security</a>
+  ·
+  <a href="#risk--model-limitations">Risk Notice</a>
+</p>
+
 ---
 
-## What is Akari Pulse?
+## Overview
 
-Akari Pulse is an AI‑powered trading and on‑chain analytics platform built around Solana (with more chains planned).  
-It lets you:
+AkariPulse is an AI-native analytics and execution platform built for Solana traders and crypto users who want faster insight, clearer risk framing, and direct action from a single interface
 
-- Scan tokens before entry, with liquidity, volume and risk overlays  
-- Analyze wallets: PnL, behavior patterns, degen level, smart‑money flows  
-- Use AI agents to get human‑readable breakdowns and news digests  
-- Go from signal to swap via integrated Jupiter swaps
+The platform combines:
 
-No spreadsheets. No ten tabs. One pulse for your trading decisions.
+- on-demand token analytics
+- wallet intelligence
+- narrative research
+- a live trading terminal
+- credit-based access powered by `$AKARI`
+
+AkariPulse is designed around a simple flow:
+
+**Discover → Analyze → Decide → Trade or avoid**
+
+---
+
+## Why AkariPulse
+
+Raw blockchain explorers show transactions
+
+AkariPulse turns on-chain and market data into structured decisions
+
+Instead of jumping between dashboards, feeds, charts, wallets, and bots, users can work inside one product loop:
+
+- find a token in the Terminal
+- open a token report
+- inspect holders and wallet behavior
+- request a narrative digest
+- swap via Jupiter when ready
+
+---
+
+## Product Surfaces
+
+### Web App
+The primary interface for the full AkariPulse experience
+
+Includes:
+- Terminal
+- Token Analytics
+- Wallet Analytics
+- Burn Dashboard
+- Profile
+- Plan & Billing
+- Usage logs
+- Beta tools
+
+### Telegram Mini App
+Fast, chat-like access to AkariPulse agents inside Telegram
+
+Best for:
+- quick token summaries
+- wallet snapshots
+- narrative digests
+
+### API
+Programmatic access for advanced users, tools, and partner integrations
+
+Best for:
+- custom dashboards
+- automations
+- internal workflows
+- analytics pipelines
 
 ---
 
 ## Core Features
 
-- **Token analytics** – liquidity, volume, volatility, holders, on‑chain flows, risk scores  
-- **Wallet analytics** – PnL, winrate, behavior tags, exposure, “whale / smart‑money” tracking  
-- **AI analytics agent** – chat interface for token & wallet breakdowns  
-- **AI research agent** – on‑demand news summaries and project digests  
-- **Jupiter swaps (Solana)** – swap any supported tokens right from the terminal  
-- **Multi‑platform** – web app, Telegram mini app, browser extension with shared account and state  
+## Token Analytics
+
+AI-generated token reports that turn raw data into a structured risk view
+
+### What it includes
+
+- unified risk score from `0` to `100`
+- contract risk and trading risk split
+- liquidity profile
+- holder distribution and concentration
+- price and volatility context
+- market structure commentary
+- practical interpretation for different trader profiles
+
+### Example report logic
+
+- **Final Risk Score** → overall risk framing
+- **Contract Risk** → ownership, mint or freeze state, LP lock or burn status, structural flags
+- **Trading Risk** → volatility, slippage, route depth, spread behavior, hostile execution conditions
+- **Holder Risk** → whale dominance, concentration, growth quality
+- **Bot Risk** → sandwich activity, bot presence, abnormal flow
+
+### Typical output
+
+- headline summary
+- key points
+- metric strip
+- price and liquidity breakdown
+- security assessment
+- community and market context
+- actionable interpretation block
 
 ---
 
-## Credits, Plans & Token
+## Wallet Analytics
 
-Akari Pulse uses a credits model:
+Wallet Analytics turns any supported wallet into a portfolio profile with labels, allocation analysis, and concentration insight
 
-- Every account gets a **free tier** with a small amount of credits  
-- Paid plans give more credits and unlock advanced features  
-- Credits are spent on:
-  - Token analysis
-  - Wallet analysis
-  - News / research digests
-- Credits are purchased using the on‑chain utility token **$AKARI**  
-- A share of each purchase is burned, the rest goes to the treasury (transparent dashboards planned)
+### What it includes
 
-Exact numbers for tiers and per‑action costs are work in progress and will be documented as they stabilize.
+- wallet classification
+- behavior labels
+- allocation by asset category
+- top holding concentration
+- average and max token risk
+- hedge quality assessment
+- practical commentary on structure and exposure
 
----
+### Example labels
 
-## Platforms
+- `SOL Maxi`
+- `No Hedge`
+- `Bluechip Heavy`
+- `Meme Hunter`
+- `Small Retail`
+- `Whale`
 
-| Client            | Status        | Notes                                  |
-|-------------------|--------------|----------------------------------------|
-| Web App           | In development | Main interface for analytics & swaps  |
-| Telegram Mini App | In development | Fast AI agents in chat                 |
-| Browser Extension | In design      | Inline token & wallet stats on any site |
+### Typical questions it answers
 
----
-
-## Repository
-
-This repository is currently focused on:
-
-- Prototyping core analytics flows (tokens & wallets)  
-- Experimenting with AI agents and job processing  
-- Drafting UI/UX for the web terminal  
-
-Expect breaking changes and incomplete features while the project is in active design & exploration.
+- Is this wallet diversified or all-in
+- Does it behave like a degen, farmer, or directional holder
+- Is this structure worth copying or fading
+- Where is the real portfolio risk coming from
 
 ---
 
-## Getting Started (Dev)
+## Narrative Radar
 
-> Dev setup will change quickly while the architecture evolves.
+Narrative Radar is an AI agent focused on news, social signals, and evolving market narratives
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-org>/akari-pulse.git
-   cd akari-pulse
-   ```
-Check apps/ and packages/ for available services and frontends.
+### What it does
 
-Follow the local README in each app/package for setup and environment variables.
+- clusters discussion into narratives
+- tracks attention intensity and direction
+- generates token-focused digests
+- generates sector or theme digests
+- adds context around why a token is being discussed right now
 
-MIT License
+### Query types
 
-Copyright (c) 2026 AkariPulse
+- **Token-focused**
+  - example: `Give me a narrative summary for token X`
+- **Sector-focused**
+  - example: `Show me current narratives around Solana memes`
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### Digest structure
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- headline summary
+- key drivers
+- risk and caveats
+- practical takeaway
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+> [!NOTE]
+> Narrative Radar reflects what is being talked about  
+> It does not predict what should happen next
+
+---
+
+## Terminal
+
+The Terminal is the real-time market layer inside AkariPulse
+
+It allows users to monitor tokens, sort by momentum and volume, open analysis instantly, and execute swaps through Jupiter
+
+### Terminal includes
+
+- live token list
+- market views
+- timeframe switching
+- token detail drawer
+- quick actions for Analyze and Swap
+- market status and update visibility
+
+### Supported views
+
+- Trending
+- Volume
+- Top Performing
+- Graduating
+- Graduated
+
+### Supported timeframes
+
+- `5m`
+- `15m`
+- `30m`
+- `1h`
+- `4h`
+- `24h`
+
+### Execution flow
+
+1. Select a token
+2. Open token detail
+3. Run analysis if needed
+4. Swap via Jupiter
+5. Confirm in wallet
+
+> [!IMPORTANT]
+> AkariPulse never takes custody of funds  
+> All swaps are executed on-chain through Jupiter with explicit wallet confirmation
+
+---
+
+## Token Design Beta
+
+Token Design is a simulation layer for exploring tokenomics before launch
+
+It does not deploy contracts  
+It does not predict price  
+It helps teams reason about structure
+
+### It can model
+
+- total supply
+- allocations
+- vesting and unlock cliffs
+- emissions and rewards
+- burns and sinks
+- treasury policy
+- scenario branches
+
+### Scenario types
+
+- Base Case
+- Growth Case
+- Stress Case
+
+### Key outputs
+
+- circulating supply over time
+- allocation shifts
+- burn versus emissions
+- unlock calendar
+- structural warnings
+
+---
+
+## Burn Dashboard
+
+The Burn Dashboard gives transparent on-chain visibility into how `$AKARI` is burned and how treasury allocations move
+
+### Dashboard focus
+
+- total `$AKARI` burned
+- burned value in USD
+- current circulating supply
+- treasury balance
+- recent burn events
+- burn and treasury charts over time
+
+### Why it exists
+
+Every credit purchase is tied to on-chain token routing  
+The dashboard acts like a public audit layer for that flow
+
+---
+
+## How It Works
+
+```mermaid
+flowchart LR
+    A[Connect wallet] --> B[Receive or buy credits]
+    B --> C[Run token wallet or narrative request]
+    C --> D[AI engine processes on-chain and market data]
+    D --> E[Structured report returned]
+    E --> F[Open Terminal trade save or continue research]
