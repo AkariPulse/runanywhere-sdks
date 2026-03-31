@@ -4,8 +4,6 @@
 </p>
 <h1 align="center">Akari Pulse</h1>
 <div align="center">
-  <img src="./public/akaripulse-logo.png" width="110" alt="AkariPulse logo" />
-  <h1>AkariPulse</h1>
   <p><strong>AI-native on-chain analytics and trading terminal for Solana</strong></p>
   <p>
     Token intelligence • Wallet profiling • Narrative research • Real-time terminal • Credit-based execution
