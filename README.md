@@ -13,24 +13,17 @@
 
 
 
+### 🚀 Quick Links
 
+[![Web App](https://img.shields.io/badge/Web%20App-Open-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://твоя-web-app-ссылка)
 
-### 🚀 Links
+[![Telegram Mini App](https://img.shields.io/badge/Telegram%20Mini%20App-Launch-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_мини_апп)
 
-[![Web App](https://img.shields.io/badge/Web%20App-live-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://твоя-web-app-ссылка)
+[![Docs](https://img.shields.io/badge/Docs-Read-8b5cf6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://твои-docs-ссылка)
 
-[![Telegram Mini App](https://img.shields.io/badge/Telegram%20Mini%20App-live-0f172a?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_мини_апп)
+[![X.com](https://img.shields.io/badge/X.com-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/твой_аккаунт)
 
-[![Docs](https://img.shields.io/badge/Docs-live-0f172a?style=for-the-badge&logo=readthedocs&logoColor=white)](https://твои-docs-ссылка)
-
-[![X.com](https://img.shields.io/badge/X.com-live-0f172a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/твой_аккаунт)
-
-[![Telegram Community](https://img.shields.io/badge/Telegram%20Community-live-0f172a?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твоя_группа_или_канал)
-
-
-
-
-
+[![Telegram Community](https://img.shields.io/badge/Telegram%20Community-Join-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твоя_группа_или_канал)
 
 
 
