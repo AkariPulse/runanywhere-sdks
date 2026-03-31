@@ -10,7 +10,6 @@
   </p>
 </div>
 
----
 <p align="center">
   <a href="#overview">Overview</a>
   ·
@@ -43,32 +42,6 @@
 
 
 ---
-
-## 🌐 Quick Access
-
-| Platform                | Description                              | Status     | Link |
-|-------------------------|------------------------------------------|------------|------|
-| **Web App**             | efwef       | Live       | [Open Web App](https://your-web-app.com) |
-| **Telegram Mini App**   | wefwef   | Live       | [Launch Mini App](https://t.me/your_mini_app) |
-| **Documentation**       | wefI                | Updated    | [Read Docs](https://docs.yourproject.com) |
-| **X.com**               | wefwefwef           | Active     | [Follow on X](https://x.com/yourusername) |
-| **Telegram Community**  | wefwef | 1.2k members | [Join Community](https://t.me/your_community) |
-
----
-> [!IMPORTANT]
-> This is a **Telegram Mini App**. For the best experience, please open it inside the official Telegram mobile application.
-
-> [!WARNING]
-> This application uses **real cryptocurrency payments** (TON). All transactions are irreversible. Please double-check the amount and address before confirming.
-
-> [!TIP]
-> Connect your wallet using **TON Connect** — it's the fastest and most secure way to interact with the app.
-
-> [!NOTE]
-> The project is currently in active development. Some features may be added or changed in future updates.
-
-> [!CAUTION]
-> Make sure you understand the risks before using real funds. We recommend testing with small amounts first.
 
 
 ## Overview
@@ -453,7 +426,7 @@ GET  /v1/analysis/:id
 GET  /v1/credits/balance
 GET  /v1/usage?from=2026-03-01&to=2026-03-04
 Example TypeScript client
-```
+```ts
 import fetch from 'node-fetch'
 
 const API_KEY = process.env.AKARIPULSE_API_KEY!
@@ -480,7 +453,11 @@ async function runTokenScan(tokenAddress: string) {
 
   return body.data ?? body
 }
+```
+
 Example usage response
+```ts
+
 {
   "ok": true,
   "data": [
