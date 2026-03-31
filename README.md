@@ -9,7 +9,36 @@
     Token intelligence • Wallet profiling • Narrative research • Real-time terminal • Credit-based execution
   </p>
 </div>
-[![Web App](https://img.shields.io/badge/Web%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://твоя-web-app-ссылка)
+
+
+
+
+
+
+### 🚀 Links
+
+[![Web App](https://img.shields.io/badge/Web%20App-live-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://твоя-web-app-ссылка)
+
+[![Telegram Mini App](https://img.shields.io/badge/Telegram%20Mini%20App-live-0f172a?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_мини_апп)
+
+[![Docs](https://img.shields.io/badge/Docs-live-0f172a?style=for-the-badge&logo=readthedocs&logoColor=white)](https://твои-docs-ссылка)
+
+[![X.com](https://img.shields.io/badge/X.com-live-0f172a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/твой_аккаунт)
+
+[![Telegram Community](https://img.shields.io/badge/Telegram%20Community-live-0f172a?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твоя_группа_или_канал)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <a href="https://app.akaripulse.com">
