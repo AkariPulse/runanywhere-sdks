@@ -65,6 +65,20 @@
 | **Telegram Community**  | wefwef | 1.2k members | [Join Community](https://t.me/your_community) |
 
 ---
+> [!IMPORTANT]
+> This is a **Telegram Mini App**. For the best experience, please open it inside the official Telegram mobile application.
+
+> [!WARNING]
+> This application uses **real cryptocurrency payments** (TON). All transactions are irreversible. Please double-check the amount and address before confirming.
+
+> [!TIP]
+> Connect your wallet using **TON Connect** — it's the fastest and most secure way to interact with the app.
+
+> [!NOTE]
+> The project is currently in active development. Some features may be added or changed in future updates.
+
+> [!CAUTION]
+> Make sure you understand the risks before using real funds. We recommend testing with small amounts first.
 
 
 ## Overview
