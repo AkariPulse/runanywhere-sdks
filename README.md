@@ -26,7 +26,7 @@
 [![Telegram Community](https://img.shields.io/badge/Telegram%20Community-Join-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твоя_группа_или_канал)
 
 
-
+---
 
 [![Web App](https://img.shields.io/badge/Web%20App-Open-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://твоя-web-app-ссылка)
 [![Telegram Mini App](https://img.shields.io/badge/Telegram%20Mini%20App-Launch-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_мини_апп)
@@ -34,26 +34,7 @@
 [![X.com](https://img.shields.io/badge/X.com-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/твой_аккаунт)
 [![Telegram Community](https://img.shields.io/badge/Telegram%20Community-Join-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твоя_группа_или_канал)
 
-
-
-
-<p align="center">
-  <a href="https://app.akaripulse.com">
-    <img alt="Web App" src="https://img.shields.io/badge/Web%20App-live-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://api.akaripulse.com">
-    <img alt="API" src="https://img.shields.io/badge/API-json-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
-  </a>
-  <a href="#terminal">
-    <img alt="Terminal" src="https://img.shields.io/badge/Terminal-real--time-1f2937?style=for-the-badge" />
-  </a>
-  <a href="#token-analytics">
-    <img alt="Analytics" src="https://img.shields.io/badge/Analytics-AI%20reports-111827?style=for-the-badge" />
-  </a>
-  <a href="#security--privacy">
-    <img alt="Non Custodial" src="https://img.shields.io/badge/Wallet-non--custodial-0f172a?style=for-the-badge" />
-  </a>
-</p>
+---
 
 <p align="center">
   <a href="#overview">Overview</a>
@@ -71,6 +52,7 @@
   <a href="#risk--model-limitations">Risk Notice</a>
 </p>
 
+---
 
 
 
